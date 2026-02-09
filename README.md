@@ -1,5 +1,7 @@
-# 📊 Imersão em Dados com Python
+## 🌐 Dashboard Online
+👉 https://fbinhohs-imersao-dados-python-app-hwkmkx.streamlit.app/
 
+# 📊 Imersão em Dados com Python
 Projeto desenvolvido durante a Imersão em Dados, com foco em análise, tratamento e visualização de dados salariais na área de Ciência de Dados.
 
 ## 🎯 Objetivo
